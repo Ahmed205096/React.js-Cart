@@ -1,0 +1,18 @@
+.Nav{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-bottom:20px;
+}
+
+.Nav input{
+    padding: 10px 15px;
+    width: 100px;
+    margin-right: 5px;
+}
+
+.Nav input[type="number"]{
+    margin-right: 10px;
+}
